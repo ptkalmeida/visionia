@@ -1,0 +1,148 @@
+Lista de Ramais Internos SECEC e Equipamentos Culturais vinculados
+Numeros Externos DDR - 
+Setor Usuario Ramal Email 
+Recepção SECEC + Gabinete Monique 200 monique.lourenco@cultura.rj.gov.br
+Recepção SECEC + Gabinete Vanessa 201
+Recepção SECEC + Gabinete Gilda 202 gilda.lima@cultura.rj.gov.br
+Recepção SECEC + Gabinete Gabinete 203
+Escola da Cultura + Passaport Cultural Claudia Viana 210 claudia.viana@cultura.rj.gov.br
+Escola da Cultura + Passaport Cultural Rafaela Andrade 212 rafaela.andrade@cultura.rj.gov.br
+Escola da Cultura + Passaport Cultural Silas Andrade 213 silas.andrade@cultura.rj.gov.br
+Escola da Cultura + Passaport Cultural Maria Luiza 214
+Escola da Cultura + Passaport Cultural Bernardo Sampaio 215 bernardo.sampaio@cultura.rj.gov.br
+Escola da Cultura + Passaport Cultural Jade Barros 216
+Protocolo + Logistica Fabio Henrique 220 fabio.henrique@cultura.rj.gov.br
+Protocolo + Logistica Leonardo Braga 221 leonardo.braga@cultura.rj.gov.br
+Protocolo + Logistica Elias Batista 222 elias.batista@cultura.rj.gov.br
+Protocolo + Logistica Paulo Clarindo 223 paulo.clarindo@cultura.rj.gov.br
+Protocolo + Logistica Guilherme Silva 224 guilherme.silva@cultura.rj.gov.br
+Protocolo + Logistica Copa\ Refeitorio 228
+Contabilidade + Financeiro Luiz Coutinho 230 luiz.coutinho@cultura.rj.gov.br
+Contabilidade + Financeiro Vitor Meirelles 231 vitor.meirelles@cultura.rj.gov.br
+Contabilidade + Financeiro Helio Junior 232 helio.junior@cultura.rj.gov.br
+Contabilidade + Financeiro Mariana Garcia 233
+Contabilidade + Financeiro Bruno Amaral 234
+Planejamento e Gestão Rosemary Costa 240
+Planejamento e Gestão Laryssa 241 laryssa.magno@cultura.rj.gov.br
+Planejamento e Gestão Patricia Nunes 242 patricia.nunes@cultura.rj.gov.br
+Planejamento e Gestão Carla Cascão 243 carla.cascao@cultura.rj.gov.br
+Planejamento e Gestão Marcelo Conceição 244 marcelo.conceicao@cultura.rj.gov.br
+Controle Interno + Ouvidoria e Corregedoria Nanci Moraes 245 nanci.moras@cultura.rj.gv.br
+Controle Interno + Ouvidoria e Corregedoria Patrica Medeiros 246 patricia.medeiros@cultura.rj.gov.br
+Controle Interno + Ouvidoria e Corregedoria Rogerio Duarte 247 rogerio.duarte@cultura.rj.gov.br
+Controle Interno + Ouvidoria e Corregedoria Beatriz Souza 248 beatriz.souza@cultura.rj.gov.br
+Controle Interno + Ouvidoria e Corregedoria Rodrigo Moura 249 rodrigo.moura@cultura.rj.gov.br
+TI - INFORMATICA Saulo Silva 250 saulo.silva@cultura.rj.gov.br
+TI - INFORMATICA Marcela Assed 251 marcela.assed@cultura.rj.gov.br
+TI - INFORMATICA Fernando Estacio 252 fernando.estacio@cultura.rj.gov.br
+TI - INFORMATICA Daniel Cardoso 254 daniel.cardoso@cultura.rj.gov.br
+TI - INFORMATICA Alessandro Pinto 255 alessandro.pinto@cultura.rj.gov.br
+TI - INFORMATICA Gabriel Estrella 256 grabriel.estrella@cultura.rj.gov.br
+TI - INFORMATICA Julia Silva 257 julia.silva@cultura.rj.gov.br
+Prestação de Contas Erica Vaz 260 erica.vaz@cultura.rj.gov.br
+Prestação de Contas Breno Figueiredo 261 breno.figueiredo@inepac.rj.gov.br
+Prestação de Contas Elaine Costa 262 elaine.costa@cultura.rj.gov.br
+Secretaria de Cultura: (21) 2216-8500 ou 0800 0213520 
+Biblioteca Parque Estadual BPE: (21) 226-8501 ou 0800 0213522
+Biblioteca de Manguinhos BPM: (21) 2216-8502 ou 0800 0213523
+Biblioteca da Rocinha BPR: (21) 2216-8503 ou 0800 0213524
+Imperator: (21) 2216-8504 ou 0800 0213525
+Parque Lage EAV: (21) 2216-8505 ou 0800 0213526
+Casa França Brasil CFB: (21) 2216-8506 ou 0800 0213527 
+SUBIC - Baixada Fluminense: (21) 2216-8540 e 2216-8541 
+INEPAC : (21) 2216-8508 
+Prestação de Contas Valdirea Duarte 264 valdirea.duarte@cultura.rj.gov.br
+Prestação de Contas Maisa Cruz 265 maisa.cruz@cultura.rj.gov.br
+Engenharia + Manutenção Tassio Pereira 270 tassio.pereira@cultura.rj.gov.br
+Engenharia + Manutenção Marina Sacchetto 271 marina.sacchetto@cultura.rj.gov.br
+Engenharia + Manutenção Marcos Souza 272 marcos.souza@cultura.rj.gov.br
+Engenharia + Manutenção Dyego Silva 273 dyego.silva@cultura.rj.gov.br
+Convênios Ayrton Torturelli 280 ayrton.torturelli@cultura.rj.gov.br
+Convênios Kaylane Araujo 281 kaylane.araujo@cultura.rj.gov.br
+RH + Departamento Pessoal Jose Silva 290 jose.silva@cultura.rj.gov.br
+RH + Departamento Pessoal Milena Lourenço 291 milena.lourenco@cultura.rj.gov.br
+RH + Departamento Pessoal Vitoria Carneiro 292 vitoria.carneiro@cultura.rj.gov.br
+Jurídico Fernanda Sauer 300 fernanda.sauer@cultura.rj.gov.br
+Jurídico Mauricio Mota 301 mauricio.mota@cultura.rj.gov.br
+Jurídico Bruna Maia 302 bruna.maia@cultura.rj.gov.br
+Jurídico Mariana Francisco 303 mariana.francisco@cultura.rj.gov.br
+Jurídico Caroline Buarque 304 caroline.buarque@cultura.rj.gov.br
+Jurídico Gabriela Neves 305 gabriela.neves@cultura.rj.gov.br
+Licitações e Contratos Rodrigo Dias 310 rodrigo.dias@cultura.rj.gov.br
+Licitações e Contratos Patricia Figueiredo 311 patricia.figueiredo@cultura.rj.gov.br
+Licitações e Contratos Leonardo Vasquinho 312 leonardo.vasquinho@cultura.rj.gov.br
+Licitações e Contratos Debora Almeida 313 debora.almeida@cultura.rj.gov.br
+Lei de Incentivo Conceiçao Diniz 320 conceicao.diniz@cultura.rj.gov.br
+Lei de Incentivo Pahmela Prince 321 pahmela.prince@cultura.rj.gov.br
+Lei de Incentivo Vanessa Rodrigues 322 vanessa.rodrigues@cultura.rj.gov.br
+Comissão de Editais Diana Derose 330 diana.derose@cultura.rj.gov.br
+Comissão de Editais Stenio Nobrega 331 stenio.nobrega@cultura.rj.gov.br
+Comissão de Editais Karen Abreu 332 karen.abreu@cultura.rj.gov.br
+Comissão de Editais Tatiana Salomão 333 tatiana.salomao@cultura.rj.gov.br
+Comissão de Editais Ciro Torres 334 ciro.torres@cultura.rj.gov.br
+Leitura e Conhecimento Yke Leon 340 yke.leon@cultura.rj.gov.br
+Leitura e Conhecimento Nayara kassia 341 nayara.kassia@cultura.rj.gov.br
+Leitura e Conhecimento Roana Souza 342 roana.souza@cultura.rj.gov.br
+Leitura e Conhecimento Arlene Costa 343 arlene.costa@cultura.rj.gov.br
+Leitura e Conhecimento Ticiane Cadilhe 344 ticiane.cadilhe@cultura.rj.gov.br
+Museus Lucienne Figueiredo 350 lucienne.figueiredo@cultura.rj.gov.br
+Museus Gloria Carvalho 351 gloria.carvalho@cultura.rj.gov.br
+Museus Beatriz Barcelos 352 beatriz.barcelos@cultura.rj.gov.br
+Museus Jorge Silva 353 jorge.silva@cultura.rj.gov.br
+Museus Ingrid Fiorante 354 ingrid.fiorante@cultura.rj.gov.br
+Audio Visual Taila Borge 360 taila.borges@cultura.rj.gov.br
+Audio Visual Zéze Franco 361 zeze.franco@cultura.rj.gov.br
+Audio Visual Mariana Darsie 362 mariana.darsie@cultura.rj.gov.br
+Audio Visual Marcelo Silva 363 marcelo.silva@cultura.rj.gov.br
+Cultura e Sociedade Thiago Sales 370 thiago.sales@cultura.rj.gov.br
+Cultura e Sociedade Adriana Cortes 371 adriana.cortes@cultura.rj.gov.br
+Cultura e Sociedade Tania Amorim 372 tania.amorim@cultura.rj.gov.br
+Cultura e Sociedade Giseli Ribeiro 373 giseli.ribeiro@cultura.rj.gov.br
+Cultura e Sociedade Alexssandro Leite 374 alexssandro.leite@cultura.rj.gov.br
+Superintendência de Artes Cristina Cattan 380 cristina.cattan@cultura.rj.gov.br
+Superintendência de Artes Julia Campos 381 julia.campos@cultura.rj.gov.br
+Superintendência de Artes Giulia Paula 382 giulia.paula@cultura.rj.gov.br
+CEPC - CONSELHO ESTADUAL DE POLITICAS CULTURAIS Silmara \ Gabrial Magalhães 383 gabriel.magalhaes@cultura.rj.gov.br
+Superintendência de Artes Ana Lidia - Sala de Dança 384 ana.souza@cultura.rj.gov.br
+Internacional Nathalia Rezende 390 nathalia.rezende@cultura.rj.gov.br
+ASCOM Gabriel Saboia 400 gabriel.saboia@cultura.rj.gov.br
+ASCOM Melissa Rocha 401 melissa.rocha@cultura.rj.gov.br
+ASCOM Isabelle Fontenele 402 isabelle.fontenele@cultura.rj.gov.br
+ASCOM Erika Cristina 403 erika.cristina@cultura.rj.gov.br
+ASCOM Leonardo Ferraz 404 leonardo.ferraz@cultura.rj.gov.br
+SEB - Sistema Estadual de Bibliotecas Lucas Oliveira 410 lucas.oliveira@cultura.rj.gov.br
+Rio Criativo Julio Souza 420 julio.souza@cultura.rj.gov.br
+Rio Criativo Sergio Firmino 421 sergio.firmino@cultura.rj.gov.br
+Relações Intermunicipais Adenilson Honorato 430 adenilson.honorato@cultura.rj.gov.br
+Relações Intermunicipais Denys Aguiar 431 denys.aguiar@cultura.rj.gov.br
+INEPAC Ana Cristina Carvalho 440 ana.carvalho@cultura.rj.gov.br
+INEPAC Leo Preta 441 leonardo.souza@inepac.rj.gov.br
+INEPAC Anna Leticia Oliveira 442 anna.oliveira@inepac.rj.gov.br
+INEPAC Selma Fraiman 443 selma.fraiman@inepac.rj.gov.br
+INEPAC Roberto da Luz 444 robertodaluz@inepac.rj.gov.br
+INEPAC Denise Mendes 445 denise.mendes@inepac.rj.gov.br
+INEPAC Leonardo Alves 446 leonardo.alves@inepac.rj.gov.br
+INEPAC Leon Araujo 447 leon.araujo@cultura.rj.gov.br
+INEPAC Recepção INEPAC 448
+INEPAC Marcella Almeida 449 marcella.almeida@inepac.rj.gov.br
+Biblioteca Parque Estadual - BPE Recepção BPE 460
+Biblioteca Parque Estadual - BPE Balcão de Atendimento BPE 461
+Biblioteca Parque Estadual - BPE Balcão de Atendimento BPE 462
+Biblioteca Parque Estadual - BPE Studio BPE 463
+Biblioteca Parque Estadual - BPE Andre Miranda 464 andre.miranda@cultura.rj.gov.br
+Biblioteca Parque Estadual - BPE Gabriel Mafrag 465 grabiel.mafrag@cultura.rj.gov.br
+Biblioteca Parque Estadual - BPE Espaço Mundo 466
+Nucleo de Eventos Juliana Pagung 470 juliana.pagung@cultura.rj.gov.br
+Nucleo de Eventos Caroline Manhães 471 caroline.manhaes@cultura.rj.gov.br
+Casa França Brasil - CFB Recepção CFB 500
+Casa França Brasil - CFB Administração CFB 501
+Casa França Brasil - CFB Tania Queiroz 502
+Biblioteca Parque de Manguinhos - BPM Recepção BPM 600
+Biblioteca Parque de Manguinhos - BPM Coordenador BPM 601
+Biblioteca Parque de Manguinhos - BPM Administrativo BPM 602
+Biblioteca Parque da Rocinha - BPR Recepção BPR - Rocinha 700
+Biblioteca Parque da Rocinha - BPR Administração BPR - Rocinha 701
+Biblioteca Parque da Rocinha - BPR Biblioteca Infantil BPR - Rocinha 702
+Centro Cultural João Nogueira - Imperator Recepção IMPERATOR 800
+Centro Cultural João Nogueira - Imperator Administração IMPERATOR 801
+Parque Lage - EAV Secretaria Parque Lage EAV 900

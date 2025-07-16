@@ -1,0 +1,5 @@
+langchain-community>=0.0.29
+langchain-huggingface>=0.0.4
+sentence-transformers>=2.2.2
+pypdf>=3.17.0
+python-docx>=0.8.11
